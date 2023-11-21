@@ -1,0 +1,14 @@
+/*
+styles with background properties
+*/
+h2{
+    background-color: palegreen;
+}
+body{
+    background-color: palevioletred;
+    background-image: url(./pexels-pixabay-36717.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain ;
+    background-color:palevioletred;
+} 

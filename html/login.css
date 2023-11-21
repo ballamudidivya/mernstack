@@ -1,0 +1,19 @@
+h1{
+    background-color: aquamarine;
+    color: blue;
+}
+input{
+    border-radius: 25px;
+  background:white;
+  padding: 10px; 
+  width: 170px;
+  height: 5px;  
+}
+fieldset{
+    border-radius: 25px;
+    background: white;
+    padding: 50px; 
+    width: 200px;
+    height: 150px; 
+
+}

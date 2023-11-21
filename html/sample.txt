@@ -1,0 +1,7 @@
+/*
+applying styles
+*/
+/* element selector */
+h2  {
+    color:red;
+}

@@ -1,0 +1,13 @@
+/*
+styles with border
+properties*/
+p{
+    border-style: dashed;
+    border-width: 1px;
+    border-color: rebeccapurple;
+    border-left-style: groove;
+    border-right-style: dashed;
+    border-top-style: dotted;
+    border-bottom-style: double;
+    border-width: 5px;
+} 

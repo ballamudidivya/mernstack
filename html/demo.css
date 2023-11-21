@@ -1,0 +1,19 @@
+/*this is element selector*/
+h2{
+    color: blue;
+}
+h3{
+    color: blueviolet;
+}
+/*grouping selector*/
+h2,p{
+    text-align: center;
+}
+/*id selector*/
+#first{
+    color: rgb(0, 0, 0);
+}
+/*class selector*/
+.second{
+    color: blue;
+}
